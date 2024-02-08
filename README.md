@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Praveen Kumar Mallikc</h1>
+<h1 align="center">Hi 👋, I'm Praveen Kumar Mallick</h1>
 <h3 align="center">A Passionate Fullstack and Mobile App Developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/praveenk_m" target="blank"><img src="https://img.shields.io/twitter/follow/praveenk_m?logo=twitter&style=for-the-badge" alt="praveenk_m" /></a> </p>
